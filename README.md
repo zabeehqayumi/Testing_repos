@@ -23,3 +23,5 @@ extra line from branch 2
 
 last line from local repo in master
 >>>>>>> 2e5cdae23114c820e64a20032064e22c5023fcb2
+
+new update 
